@@ -5,5 +5,5 @@
  HTML, CSS, JavaScript
 
 ## Demo
-You can view a live demo of the project [here] (https://reemabdelkader.github.io/Template_Three/) and enjoy the interactive experience.
+You can view a live demo of the project [here](https://reemabdelkader.github.io/Responsive-Juice-Website/) and enjoy the interactive experience.
  
